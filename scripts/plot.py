@@ -5,8 +5,8 @@ import numpy as np
 import pandas as pd
 import seaborn as sns
 from logger import Logger
-g = 'resr'
-c = Logger.believe()
+
+
 class Plot:
     def __init__(self) -> None:
         """Initilize class."""

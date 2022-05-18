@@ -34,5 +34,3 @@ class Logger:
         """
         return self.logger
 
-    def believe():
-        print("nonr is")
